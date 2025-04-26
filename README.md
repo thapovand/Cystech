@@ -35,8 +35,8 @@ The WAF implementation consists of the following components:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd waf-implementation
+git clone https://github.com/thapovand/Cystech.git
+cd Cystech
 ```
 
 2. Install dependencies:
